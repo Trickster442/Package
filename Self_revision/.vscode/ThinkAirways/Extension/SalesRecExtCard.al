@@ -8,6 +8,7 @@ pageextension 51481 "Sales & Receivable Card Ext" extends "Sales & Receivables S
             field(FlightCode; Rec.FlightCode)
             {
                 ApplicationArea = All;
+                TableRelation = "No. Series";
             }
         }
     }
