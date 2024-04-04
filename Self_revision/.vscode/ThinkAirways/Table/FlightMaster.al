@@ -9,6 +9,7 @@ table 51450 "Flight Master"
             DataClassification = ToBeClassified;
             AutoIncrement = true ;
             Editable = false ;
+            
         }
 
         field(2; "Flight Code"; Code[20])
